@@ -1,0 +1,19 @@
+{
+  "name": "adventure-generator",
+  "version": "1.0.0",
+  "description": "this is my project 3 for Rich Media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aev2648/adventure-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aev2648/adventure-generator/issues"
+  },
+  "homepage": "https://github.com/aev2648/adventure-generator#readme"
+}
