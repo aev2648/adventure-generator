@@ -14,7 +14,7 @@ var onRequest = function(request, response){
     response.writeHead(200, headers);
     
     if(request.url === '/locations.json'){
-        response.write("waka flaka flame was here");
+        response.write("waka flacka flame was here");
         response.end();
     } else {
         response.writeHead(404, headers);
